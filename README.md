@@ -19,19 +19,19 @@ Este es mi primer repositorio. Aquí empecé a trabajar con GitHub.
 
 ### 🧪 ¿Qué hice aquí?
 
-(Respuesta)
+Crear la pagina de inicio de mi proyecto 
 
  
 
 ### 😮 ¿Qué es GitHub?
 
-(Respuesta)
+GitHub es la biblioteca de los programadores donde se guaran cada modificacion 
 
  
 
 ### 🎯 ¿Para qué me sirve?
 
-(Respuesta)
+Para guardar todos los procesos hechos n cada secion sin tener que perder la información 
 
  
 
@@ -51,8 +51,8 @@ Aquí ya realicé varios cambios en GitHub.
 
 ## 👤 Sobre mí
 
-Nombre:
+Nombre: Mathias Rios 
 
-Curso: 
+Curso: DP 1
 
 
